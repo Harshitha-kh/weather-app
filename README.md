@@ -1,28 +1,30 @@
-# Weather App 🌤️
+🌦️ Weather App
 
-A clean, simple weather dashboard built with HTML, CSS & JavaScript.  
-Fetches weather data for a given location and displays temperature, condition, time, date, and an icon.
+A simple and responsive Weather App built using HTML, CSS, and JavaScript that fetches real-time weather data from the WeatherAPI
+.
 
-🔗 Live Demo: [weather-app-ashy-pi-26.vercel.app]([https://weather-app-ashy-pi-26.vercel.app/](https://weather-app1-nine-sepia.vercel.app/))
+🚀 Live Demo: https://weather-app1-nine-sepia.vercel.app/
 
----
+📋 Features
 
-## 📦 Features
+🌍 Search weather by city name
 
-- Search weather by city or location name  
-- Displays current temperature  
-- Shows location, date, and time  
-- Weather condition with icon  
-- Responsive UI that works on desktops and mobile  
-- Elegant design with glassmorphism / modern touches  
+🌡️ Displays temperature, condition, and weather icon
 
----
+🕒 Shows local time and date of the searched city
 
-## 🧰 Tech Stack
+💨 Includes air quality index (AQI) support
 
-- HTML5  
-- CSS3 (with modern layout / effects)  
-- JavaScript (fetch API)  
-- (Optional) Any weather API like OpenWeatherMap as backend  
+📱 Fully responsive UI design
+
+🛠️ Technologies Used
+
+HTML5 – Structure of the app
+
+CSS3 – Styling and layout
+
+JavaScript (ES6) – Fetching data and dynamic updates
+
+WeatherAPI – Source of weather data
 
 
