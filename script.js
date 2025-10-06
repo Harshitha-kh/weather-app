@@ -23,7 +23,7 @@
             }
         })
             async function fetchWeather(location) {
-              const url = `http://api.weatherapi.com/v1/current.json?key=8d59fdf835074982a43142556250410&q=${location}&aqi=no`;
+              const url = `https://api.weatherapi.com/v1/current.json?key=8d59fdf835074982a43142556250410&q=${location}&aqi=no`;
                const response = await fetch(url);
                if(response.status == 400) {
                 alert("location is invalid");
