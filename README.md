@@ -27,17 +27,7 @@ Fetches weather data for a given location and displays temperature, condition, t
 
 ---
 
-## 🚀 Getting Started (Development)
 
-Follow these steps to run the project locally:
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
-   cd weather-app
-
-
-JavaScript (ES6) – Fetching data and dynamic updates
 
 WeatherAPI – Source of weather data
 
