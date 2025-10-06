@@ -3,7 +3,7 @@
 A clean, simple weather dashboard built with HTML, CSS & JavaScript.  
 Fetches weather data for a given location and displays temperature, condition, time, date, and an icon.
 
-🔗 Live Demo: [weather-app-ashy-pi-26.vercel.app](https://weather-app-ashy-pi-26.vercel.app/)
+🔗 Live Demo: [weather-app-ashy-pi-26.vercel.app]([https://weather-app-ashy-pi-26.vercel.app/](https://weather-app1-nine-sepia.vercel.app/))
 
 ---
 
